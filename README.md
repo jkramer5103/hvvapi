@@ -98,4 +98,4 @@ Die vollständige API-Dokumentation findest du in `manuals/manual.md` und `manua
 
 ## Authentifizierung
 
-Die API verwendet HMAC-SHA1-Authentifizierung. Du benötigst einen Benutzernamen und ein Passwort von HBT GmbH.
+Die API verwendet HMAC-SHA1-Authentifizierung. Du benötigst einen Benutzernamen und ein Passwort vom HVV (Geofox).
